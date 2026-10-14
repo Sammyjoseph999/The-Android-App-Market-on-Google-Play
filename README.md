@@ -20,3 +20,7 @@ Exploratory analysis of about 9,700 Google Play apps and a sample of user review
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
